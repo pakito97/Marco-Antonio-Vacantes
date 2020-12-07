@@ -3,7 +3,7 @@
               
 **Soy estudiante del Tecnologico de Tijuana.**
 
-Estas son mi redes sociales.
+Estas son mi redes sociales y mi CV.
 
 <a>
   <a href="https://www.reddit.com/user/Marco-Antonio97">
