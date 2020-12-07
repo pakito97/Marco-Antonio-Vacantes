@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5486774.png" width="1106" height="80" alt="Bienvenidos a mi Perfil Profesional" /></a>
-<br />Image by <a href="https://cooltext.com"></a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3707276525"></a>
+<br /><a href="https://cooltext.com"></a><a href="https://cooltext.com/Edit-Logo?LogoID=3707276525"></a>
               
 **Soy estudiante del Tecnologico de Tijuana.**
 
